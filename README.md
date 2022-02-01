@@ -1,6 +1,6 @@
 
 
-## First, install needed dependency by running:
+## First, install needed dependency by running this on terminal:
   ``npm install``
 
 ## and then to start, run:
